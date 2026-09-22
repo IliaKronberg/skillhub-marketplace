@@ -1,0 +1,13 @@
+{
+    "name": "skillhub",
+    "owner": {
+        "name": "SkillHub"
+    },
+    "plugins": [
+        {
+            "name": "hub-submit",
+            "source": "./skills/hub-submit",
+            "version": "999f1dd80888"
+        }
+    ]
+}
