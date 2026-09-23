@@ -10,9 +10,9 @@
             "version": "1"
         },
         {
-            "name": "hub-submit",
-            "source": "./skills/hub-submit",
-            "version": "999f1dd80888"
+            "name": "skillhub",
+            "source": "./skills/skillhub",
+            "version": "d937b2abffc7"
         }
     ]
 }
