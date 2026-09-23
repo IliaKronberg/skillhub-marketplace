@@ -5,6 +5,11 @@
     },
     "plugins": [
         {
+            "name": "check-internet-speed",
+            "source": "./skills/check-internet-speed",
+            "version": "1"
+        },
+        {
             "name": "hub-submit",
             "source": "./skills/hub-submit",
             "version": "999f1dd80888"
